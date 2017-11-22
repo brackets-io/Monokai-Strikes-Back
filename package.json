@@ -1,16 +1,16 @@
 {
-  "title": "Monokai Darkness Reborn",
-  "name": "monokai-darkness-reborn",
-  "description": "Dark theme based on Monokai Dark Soda schemes.",
+  "title": "Monokai Strikes Back",
+  "name": "monokai-strikes-back",
+  "description": "Dark theme based on Monokai Darkness Reborn schemes.",
   "version": "1.0.0",
   "author": {
-  "name": "anand arokianathan",
-  "url": "https://github.com/anandisrocking007"
+  "name": "Guilherme Odai",
+  "url": "https://github.com/guilhermeodai"
   },
-  "homepage": "https://github.com/anandisrocking007/Monokai-Darkness-Reborn",
+  "homepage": "https://github.com/guilhermeodai/Monokai-Strikes-Back",
   "repository": {
         "type": "git",
-        "url": "https://github.com/anandisrocking007/Monokai-Darkness-Reborn.git"
+        "url": "https://github.com/guilhermeodai/Monokai-Strikes-Back.git"
     },
   "license": "MIT",
   "engines": {
@@ -21,5 +21,5 @@
     "dark": true,
     "addModeClass": true
   },
-  "keywords": ["theme","monokai","darkness","reborn","text","fork","extension","css","html","javascript","php","mysql"]
+  "keywords": ["theme","monokai","strikes","back","text","fork","extension","css","html","javascript","php"]
 }
