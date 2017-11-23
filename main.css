@@ -86,9 +86,7 @@ foreach        endif           public             if
 CSS => CSS Vendors Eg: -ms- , -webkit- , -o- , -moz-
 PHP => <?php ?>    */
 .cm-meta {
-    color: #242424;
-    background: #FD971F;
-    border-radius: 7%;
+    color: #FD971F;
     font-weight:bold;
 }
 .cm-m-css.cm-meta {                        /*FOR CSS*/
