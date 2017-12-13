@@ -1,8 +1,8 @@
 {
 	"title": "Monokai Strikes Back",
 	"name": "monokai-strikes-back",
-	"description": "Dark theme based on Monokai Darkness Reborn color schemes.",
-	"version": "1.0.0",
+	"description": "Dark theme with a focus on contrast and readability, especially on HTML / CSS / JS / PHP files. Based on Monokai Darkness Reborn and the Monokai theme for Mono Develop.",
+	"version": "2.0.0",
 	"author": {
 		"name": "Guilherme Odai",
 		"url": "https://github.com/guilhermeodai"
@@ -17,7 +17,7 @@
 		"brackets": ">=1.3.0"
 	},
 	"theme": {
-		"file": "main.css",
+		"file": "main.less",
 		"dark": true,
 		"addModeClass": true
 	},
